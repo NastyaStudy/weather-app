@@ -1,0 +1,67 @@
+body{
+    
+    margin: 100px 350px 100px 350px;
+    }
+    h1{
+        font-size: 55px;
+          }
+    h2{
+        font-size: 40px;
+           }
+    h3{
+        font-size: 20px;
+    }
+    button{
+        margin: -20px;
+      background-color: none;
+        border: none;
+    }
+
+    .today-temperature{
+        color: #113F67;
+    }
+
+   .input-city{
+    border: 2px solid #A2A8D3;
+   }
+
+   .submit-city{
+    border: 2px solid #A2A8D3;
+   }
+
+.first{
+    border: 2px solid #A2A8D3;
+    border-radius: 6px;
+    background-image:url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/046/620/original/old-gray-cement-wall-backgrounds_34552-325.jpg?1663692991)
+}
+.city-time{
+    text-align: right;
+}
+.card{
+    width: 25%;
+}
+.day-card{
+    background: none;
+    border: 1px solid  #A2A8D3 ;
+}
+
+.change-temperature{
+    position: relative;
+    top: -20px;
+    color: #113F67;;
+       font-size: 24px;
+    text-decoration: none;
+
+}
+
+.line{
+    position: relative;
+    top: -23px;
+    font-size: 20px;
+    color: #113F67;
+    }
+
+.current-city{
+    color: #113F67;
+   
+  }
