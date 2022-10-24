@@ -65,3 +65,8 @@ body{
     color: #113F67;
    
   }
+.link-on-git {
+    margin-top: 10px;
+    font-size: smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
